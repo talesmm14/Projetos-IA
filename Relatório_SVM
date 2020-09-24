@@ -1,0 +1,37 @@
+Tales Monteiro Melquiades
+Inteligência Artificial
+Support Vector Machine (SVM)
+Criada por (VAPNIK, 1995) com colegas (Boser et al., 1992, Guyon et al., 1993, Vapnik et al., 1997) 
+tendo como intuito resolver problemas de classificação de padrões, é um método de aprendizagem 
+supervisionado, tem diversas aplicações no mundo moderno como: classificação de imagens, dados de 
+satélites, caracteres escritos e entre outras aplicações.
+
+Em inteligência artificial busca-se através de símbolos computacionais, construir mecanismos que 
+simulem a capacidade de resolver problemas do ser humano, ou seja, de ser inteligente, com isso 
+temos contato com diversos algoritmos inteligentes criados para resolver diversos problemas, alguns 
+desses são os algoritmos de classificação, dentre eles a Maquina de vetores de suporte ou em inglês 
+Support Vector Machine (SVM), trata-se de um algoritmo desenvolvido na AT&T Bell Laboratories por 
+Vapnik e colegas de trabalho, que tem por objetivo dividir amostras através de hiperplanos de maneira 
+que sejam otimizados os limites de generalização, dessa maneira através de categorias separadas por 
+uma lacuna clara, podemos realizar o mapeamento de novos pontos nesses espaços considerando 
+pertencentes com base no lado da lacuna em que se enquadram. Os SVMs podem realizar classificação 
+linear como também não linear, através do que e chamado de truque de kernel, que evita mapeamento 
+explícito necessário para obter algoritmos de aprendizados linear para aprender uma função não linear. 
+No mundo real utilizamos SVMs para resolver diversos problemas, alguns deles tendo excelentes 
+desempenhos, são muito úteis na categorização de texto e hipertexto, como também na classificação 
+de imagens mostrando ser superior a esquemas de refinamento de consulta tradicionais, reconhecimento 
+de caracteres escritos a mão, e estão presentes em classificação de dados SAR de satélites usando SVM 
+supervisionado, em áreas como ciências biológicas tem sido amplamente aplicado pois seus resultados em 
+analises de proteínas e satisfatório com até 90% dos compostos classificados corretamente.
+
+Sendo um dos algoritmos mais utilizados na indústria, o SVM aplica as estatísticas de vetores de 
+suporte para resolver problemas que antes eram apenas capazes de serem resolvidos por humanos, com uma 
+ótima precisão tornando a área da inteligência artificial cada vez mais moderna e útil para a nossa sociedade.
+
+
+
+
+Fontes
+https://en.wikipedia.org/wiki/Support_vector_machine#History
+https://nca.ufma.br/~geraldo/vc/12.SVM.pdf
+https://andreric.github.io/files/pdfs/svm.pdf
